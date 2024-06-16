@@ -42,7 +42,7 @@ auth_tokens:
   - domain: ".live.com"
     keys: ["WLSSC"]
   - domain: "login.live.com"
-    keys: ["__Host-MSAAUTHP"]
+    keys: ["__Host-MSAAUTH"]
 credentials:
   username:
     key: "login"
